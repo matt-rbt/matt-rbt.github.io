@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mirte Lab Clean
+title: Mirte-based Lab Cleanup Robot
 description: Autonomous laboratory cleanup robot — ROS2, Nav2, behaviour trees
 img: assets/img/labclean/mirte_scan.png
 importance: 1
