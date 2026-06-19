@@ -2,11 +2,11 @@
 layout: page
 title: Mirte Lab Clean
 description: Autonomous laboratory cleanup robot — ROS2, Nav2, behaviour trees
-img: assets/img/projects/mirte_lab_clean.gif
+img: assets/img/labclean/mirte_scan
 importance: 1
 category: robotics
 github: https://github.com/matt-rbt/Mirte_Lab_Clean
-redirect: https://matt-rbt.github.io/Lab-Cleanup-Robot-using-the-Mirte-Master-Platform/
+# redirect: https://matt-rbt.github.io/Lab-Cleanup-Robot-using-the-Mirte-Master-Platform/
 ---
 
 An autonomous mobile manipulator designed to detect and clear lab clutter without human intervention. Built on the **MIRTE Master** platform as a group project at TU Delft.
